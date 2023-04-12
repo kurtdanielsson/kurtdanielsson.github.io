@@ -5,7 +5,8 @@ on:
   pull_request:
     branches: [ "master" ]
 permissions:
-  contents: write
+  id-token: write
+  contents: read
 jobs:
   build:
     runs-on: ubuntu-latest
