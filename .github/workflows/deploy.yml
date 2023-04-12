@@ -1,22 +1,21 @@
-name: CI
-on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+name: Build and Deploy
+on: [push]
 permissions:
-  id-token: write
-  contents: read
+  contents: write
 jobs:
-  build:
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Run a one-line script
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Install and Build
         run: |
           npm install
           npm run build
-      - name: Deploy GitHub Pages site
-        uses: actions/deploy-pages@v2.0.0
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          artifact_name: docs
+          folder: dist
