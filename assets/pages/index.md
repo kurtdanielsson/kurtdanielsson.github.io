@@ -7,4 +7,4 @@ page: index
 
 Här hittar du information gällande samfällighetsföreningen i Oslättfors utan för Gävle.
 
-Test!
+Hej!
