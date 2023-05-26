@@ -13,15 +13,13 @@ Epost:\
 `oslattfors@hotmail.se`
 
 **Orförande**\
-Tim Löfström\
-`lo.tim@hotmail.com`
+Tim Löfström
 
 **Kassör**\
 Anders Persson
 
 **Ledamot**\
-Daniel Nilsson\
-`nutte80@hotmail.com`
+Daniel Nilsson
 
 **Suppleant**\
 Simon Boklund
