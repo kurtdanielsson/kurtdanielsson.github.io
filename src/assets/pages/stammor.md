@@ -1,6 +1,7 @@
 ---
 title: Årsmöten
 page: stammor
+navbar: Samfällighet
 ---
 
 # Stämmor
