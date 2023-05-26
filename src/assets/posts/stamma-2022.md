@@ -1,5 +1,5 @@
 ---
-name: Tim Löfström
+name: Styrelsen
 title: Stämma 2022
 subtitle: Årsstämma för Oslättfors Samfällighet för året 2022
 date: den 16 maj, 2023

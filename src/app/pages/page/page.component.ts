@@ -21,7 +21,10 @@ export class PageComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.page$ = this.route.params.pipe(map(item => item['page']));
+	this.page$ = this.route.params.pipe(
+		map(item => item['page']),
+		map(item => item === undefined ? 'index' : item)
+	);
     this.posts$ = this.stateService.posts;
     this.pages$ = this.stateService.pages;
     const fileName = this.page$?.pipe(combineLatestWith(this.pages$!), map(([page, pages]) => this.filterFilename(pages, page)));
@@ -29,10 +32,6 @@ export class PageComponent implements OnInit {
   }
 
   filterFilename(item: Page[], name: string) {
-
-	if (name === undefined) {
-		name = 'index';
-	}
 
     return item.filter(page => (page as Page).page.includes(name))
       .map(page => page.file)

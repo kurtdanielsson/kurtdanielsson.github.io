@@ -1,5 +1,5 @@
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { NgModule } from '@angular/core';
+import { NgModule, SecurityContext } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { MarkdownModule, MarkedOptions } from 'ngx-markdown';
 
@@ -13,31 +13,33 @@ import { PostPreviewComponent } from './components/post-preview/post-preview.com
 import { PageComponent } from './pages/page/page.component';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    NavbarComponent,
-    PageComponent,
-    HeaderComponent,
-    FooterComponent,
-    PostsComponent,
-    PostPreviewComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-    MarkdownModule.forRoot({ loader: HttpClient, markedOptions: {
-      provide: MarkedOptions,
-      useValue: {
-        gfm: true,
-        breaks: false,
-        pedantic: false,
-        smartLists: true,
-        smartypants: false,
-      },
-    }, })
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+	declarations: [
+		AppComponent,
+		NavbarComponent,
+		PageComponent,
+		HeaderComponent,
+		FooterComponent,
+		PostsComponent,
+		PostPreviewComponent
+	],
+	imports: [
+		BrowserModule,
+		AppRoutingModule,
+		HttpClientModule,
+		MarkdownModule.forRoot({
+			sanitize: SecurityContext.NONE, loader: HttpClient, markedOptions: {
+				provide: MarkedOptions,
+				useValue: {
+					gfm: true,
+					breaks: false,
+					pedantic: false,
+					smartLists: true,
+					smartypants: false,
+				},
+			},
+		})
+	],
+	providers: [],
+	bootstrap: [AppComponent]
 })
 export class AppModule { }

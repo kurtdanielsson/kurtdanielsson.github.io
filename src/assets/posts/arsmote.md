@@ -1,9 +1,9 @@
 ---
-name: Tim Löfström
+name: Styrelsen
 title: Årsmöte
 subtitle: Välkommen till stämma för året 2022
 date: den 12 april, 2023
-page: hem
+page: index
 ---
 
 # Stämma 2022

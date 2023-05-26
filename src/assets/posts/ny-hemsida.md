@@ -1,9 +1,9 @@
 ---
-name: Tim Löfström
+name: Styrelsen
 title: Ny Hemsida
 subtitle: Oslättfors har just nu en ny hemsida som är under uppbyggnad
 date: den 26 april, 2022
-page: hem
+page: index
 ---
 
 # Ny Hemsida ✨

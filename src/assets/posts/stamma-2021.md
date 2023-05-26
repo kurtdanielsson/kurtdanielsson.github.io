@@ -1,5 +1,5 @@
 ---
-name: Tim Löfström
+name: Styrelsen
 title: Stämma 2021
 subtitle: Årsstämma för Oslättfors Samfällighet för året 2019 och 2020
 date: den 16 maj, 2023
