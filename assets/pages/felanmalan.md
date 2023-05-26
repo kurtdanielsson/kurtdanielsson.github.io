@@ -5,7 +5,7 @@ page: felanmalan
 
 # Felanmälan
 
-**Oslättfors Samfällighetsförening felanmälan**
+**Oslättfors samfällighetsförening felanmälan**
 
 Du som medlem i föreningen kan raportera fel genom att skriva ett mail till `oslattfors@hotmail.se`
 
