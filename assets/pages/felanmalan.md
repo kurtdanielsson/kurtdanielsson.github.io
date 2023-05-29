@@ -1,6 +1,7 @@
 ---
 title: Felanmälan
 page: felanmalan
+navbar: kontakt
 ---
 
 # Felanmälan

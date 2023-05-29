@@ -1,6 +1,7 @@
 ---
-title: Kontakt
-page: kontakt
+title: Styrelsen
+page: styrelsen
+navbar: kontakt
 ---
 
 # Kontakt
