@@ -32,5 +32,5 @@ Trädallén som samfälligheten förvaltar har beteckningen Gävle Oslättfors G
 
 Kartan för träden finns i aktbilaga `KA1` med nummer 1 till 15, eller som utskrift från Lantmäteriet i dokumentet `GA11` markerade som blå ringar.
 
-<a href="/assets/files/KA1.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> KA4.pdf</a>
+<a href="/assets/files/KA1.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> KA1.pdf</a>
 <a href="/assets/files/GA11.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> GA11.pdf</a>
