@@ -8,8 +8,6 @@ navbar: Samfällighet
 
 Oslättfors samfällighetsförening har följande samarbetspartners
 
-- **Hillboms Entreprenad AB**\
-  Snöröjning
 - **Gästrike Återvinnare**\
   Återvinningstation
 - **Stensmarks Samfällighetsförening**\
