@@ -12,9 +12,11 @@ ett kulturhistoriskt värdefullt område. Programmet är antaget av kommunfullm�
 Bestämmelserna skall ge stöd för förvaltning av byggnader och mark som innebär en långsiktigt god
 hushållning med kulturvärden och samtidigt ge förutsättningar för fortsatt boende.
 
-- <a href="/assets/files/Områdesbestämmelser karta.pdf" target="_blank">Områdesbestämmelser karta.pdf</a>
-- <a href="/assets/files/Beskrivning till områdesbestämmelser.pdf" target="_blank">Beskrivning till områdesbestämmelser.pdf</a>
-- <a href="/assets/files/Bestämmelser till områdesbestämmelser.pdf" target="_blank">Bestämmelser till områdesbestämmelser.pdf</a>
+<a href="/assets/files/Områdesbestämmelser karta.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Områdesbestämmelser karta.pdf</a>
+
+<a href="/assets/files/Beskrivning till områdesbestämmelser.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Beskrivning till områdesbestämmelser.pdf</a>
+
+<a href="/assets/files/Bestämmelser till områdesbestämmelser.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Bestämmelser till områdesbestämmelser.pdf</a>
 
 ## Användning
 

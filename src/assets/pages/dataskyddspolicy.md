@@ -10,4 +10,6 @@ Syftet med en dataskyddspolicy är att säkerställa att alla personuppgifter ha
 dataskyddsförordningen GDPR. Policyn omfattar alla personuppgifter som hanteras såväl strukturerat som
 ostrukturerat data. 
 
-Läs mer om detta i dokumentet <a href="/assets/files/Dataskyddspolicy.pdf" target="_blank">Dataskyddspolicy.pdf</a>
+Läs mer om detta i dokumentet `Dataskyddspolicy.pdf`
+
+<a href="/assets/files/Dataskyddspolicy.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Dataskyddspolicy.pdf</a>
