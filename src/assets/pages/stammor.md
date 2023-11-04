@@ -1,9 +1,9 @@
 ---
-title: Årsmöten
+title: Årsstämmor
 page: stammor
 navbar: Samfällighet
 ---
 
-# Stämmor
+# Årsstämmor
 
 Årsmötesprotokoll samt verksamhetsberättelser för respektive år finnes nedan.
