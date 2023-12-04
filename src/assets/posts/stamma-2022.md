@@ -2,7 +2,7 @@
 name: Styrelsen
 title: Stämma 2022
 subtitle: Årsstämma för Oslättfors Samfällighet för året 2021
-date: den 16 maj, 2023
+date: "2023-05-16"
 page: stammor
 ---
 

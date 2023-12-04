@@ -13,8 +13,8 @@ export class PostPreviewComponent {
 	postByName(name: string | undefined) {
 		if (name) {
 			return this.posts?.filter(item => item.page.includes(name))
+				.sort((a, b) => b.date.localeCompare(a.date))
 				.sort((a, b) => b.title.localeCompare(a.title))
-				.sort((a, b) => a.date.localeCompare(b.date));
 		}
 		return [];
 	}

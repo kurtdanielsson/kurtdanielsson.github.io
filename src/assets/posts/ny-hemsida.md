@@ -2,7 +2,7 @@
 name: Styrelsen
 title: Ny Hemsida
 subtitle: Oslättfors har just nu en ny hemsida som är under uppbyggnad
-date: den 26 april, 2022
+date: "2022-04-26"
 page: index
 ---
 

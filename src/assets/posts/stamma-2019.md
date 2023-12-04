@@ -2,7 +2,7 @@
 name: Styrelsen
 title: Stämma 2019
 subtitle: Årsstämma för Oslättfors Samfällighet för året 2018
-date: den 26 april, 2022
+date: "2022-04-26"
 page: stammor
 ---
 
