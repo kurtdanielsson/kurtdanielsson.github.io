@@ -12,7 +12,7 @@ Nedan samlat finns dokument för vattenprover i Oslättfors.
 
 ## Vattenprover 2024
 
-Dricksvattenprover för 2023 som tagits hos Stensmarks vattenverk finns nedan.
+Dricksvattenprover för 2024 som tagits hos Stensmarks vattenverk finns nedan.
 
 <a href="/assets/files/Dricksvattenprov-2024.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Dricksvattenprov 2024.pdf</a>
 
