@@ -18,4 +18,4 @@ Med ett överskott på ca `6.000 kr` från vintern 2022/2023 ger det totalt `21.
 
 Plogning sker på utmarkerad röd linje.
 
-<a href="/assets/files/plogkarta2023.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Plogkarta 2023</a>
+<a href="/assets/files/plogkarta.pdf" target="_blank" class="btn btn-outline-dark"><i class="fa fa-file-pdf fa-xl"></i> Plogkarta 2023</a>
