@@ -6,24 +6,24 @@ navbar: kontakt
 
 # Kontakt
 
-Kontakt med samfälligheten sker enklast genom att kontakta styrelsen.
+Kontakt med samfälligheten sker enklast genom mail.
 
 ## Styrelsen
 
 Epost:\
 `oslattfors@hotmail.se`
 
-**Orförande**\
+**Orförande / Kassör**\
 Tim Löfström
 
-**Kassör**\
-Anders Persson
+**Ledamot**\
+Simon Boklund
 
 **Ledamot**\
 Daniel Nilsson
 
 **Suppleant**\
-Simon Boklund
+Anders Persson
 
 **Suppleant**\
 Michael Müller
